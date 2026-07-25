@@ -434,8 +434,7 @@ export const DATA = {
       location: "Egg Live",
       description:
         "",
-      image:
-        "https://media.licdn.com/dms/image/v2/D4D0BAQFZb08wSwFxlw/company-logo_200_200/B4DZbNxNudG0AM-/0/1747208955165/egglive_logo?e=1762992000&v=beta&t=t4f2by9doGkrNFs4HVceGnKpKIqlKTSXJLrowgty5BI",
+      image: "/egglive-logo.svg",
       links: [
         {
           title: "Certificado",
@@ -495,8 +494,7 @@ export const DATA = {
       dates: "",
       location: "Nestlé Venezuela",
       description: "",
-      image:
-        "https://media.licdn.com/dms/image/v2/C4E0BAQGaL-YyJ8xd7Q/company-logo_200_200/company-logo_200_200/0/1630615758178/nestle_s_a__logo?e=1763596800&v=beta&t=0pydWpbR_sol-54vkRKMRlup744xYMfp6xVyDgxWzB8",
+      image: "/nestle-logo.svg",
       links: [
         {
           title: "Certificado",
@@ -603,8 +601,7 @@ export const DATA = {
       dates: "",
       location: "Facebook Blueprint",
       description: "",
-      image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png",
+      image: "/facebook-blueprint-logo.svg",
       links: [
         {
           title: "Certificado",
@@ -618,8 +615,7 @@ export const DATA = {
       dates: "",
       location: "Facebook Blueprint",
       description: "",
-      image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png",
+      image: "/facebook-blueprint-logo.svg",
       links: [
         {
           title: "Certificado",
