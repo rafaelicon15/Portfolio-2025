@@ -8,9 +8,9 @@ export const DATA = {
   location: "Maracay, Aragua",
   locationLink: "https://maps.app.goo.gl/enHsUAe3czvwz8oL8",
   description:
-    "Especialista en IT y Marketing Digital | Desarrollador | PPC (Google & Meta Ads)",
+    "Lead Automation Specialist | Head of Growth | Arquitecto de CRM & Funnels (Make/n8n) | Experto en Meta & Google Ads | Estrategias basadas en datos",
   summary:
-    "Profesional dinámico con más de 8 años de experiencia en la intersección de Tecnologías de la Información (TI) y Publicidad Digital. Cuento con habilidades de desarrollo en Python y JavaScript, orientadas a la creación de landing pages y la automatización de procesos. Estoy especializado en la gestión y optimización de campañas PPC en Google Ads y Meta Ads, y en la implementación de estrategias de posicionamiento SEO para mejorar la visibilidad orgánica. Domino herramientas como Google Search Console, Google Analytics y Yoast SEO para maximizar el ROI tanto en campañas pagadas como en resultados de búsqueda orgánicos. Busco integrar mi perfil técnico y estratégico para desarrollar soluciones robustas y potenciar los resultados en marketing digital.",
+    "Estratega digital con más de 8 años de experiencia conectando la infraestructura de TI con el growth marketing. Mi enfoque va más allá de la adquisición de tráfico: diseño y construyo ecosistemas tecnológicos escalables y rentables para la generación de leads, combinando automatización de flujos de trabajo (Make, n8n), arquitectura de CRM y embudos de conversión con la gestión experta de campañas PPC en Google Ads y Meta Ads. Cuento con habilidades de desarrollo en Python y JavaScript orientadas a la creación de landing pages de alta conversión y la automatización de procesos. Domino Google Search Console, Google Analytics y herramientas de CRO y analítica para maximizar el ROI tanto en campañas pagadas como en resultados de búsqueda orgánicos. Busco integrar mi perfil técnico y estratégico para desarrollar soluciones robustas que potencien resultados medibles en marketing digital.",
   avatarUrl: "/yo.webp",
   skills: [
    "PhotoShop",
@@ -18,6 +18,7 @@ export const DATA = {
     "Packet Tracer",
     "Go HighLevel",
     "n8n",
+    "Make",
     "ManyChat",
     "Office 365",
     "Google Workspace",
@@ -104,26 +105,38 @@ export const DATA = {
 
   work: [
     {
+      company: "Cohen & Aguirre Lobby Solutions",
+      href: "#",
+      badges: [],
+      location: "Madrid, España (Remoto)",
+      title: "Especialista en CRO y Marketing",
+      logoUrl: "/CohenAguirre-logo.webp",
+      start: "Diciembre 2025",
+      end: "Actualmente",
+      description:
+        "Lidero la optimización de conversión (CRO) y la analítica del comportamiento del usuario y embudos de venta. Implemento automatización de flujos de trabajo mediante agentes autónomos para auditorías SEO y reportes de marketing. Desarrollo y prototipo landing pages de alta conversión, y diseño y testeo embudos de venta (pruebas A/B) para maximizar el retorno de inversión.",
+    },
+    {
       company: "The Websell",
       href: "#",
       badges: [],
       location: "Maracay, Aragua",
-      title: "Especialista en Campañas",
+      title: "Performance Marketing Manager | Paid Media Specialist (Meta & Google Ads)",
       logoUrl: "/Websell-logo.webp",
       start: "Abril 2025",
-      end: "Actualmente",
+      end: "Junio 2026",
       description:
-        "Me especializo en la gestión integral de campañas de pago por clic (PPC) en Google Ads, Tik Tok Ads y Meta Ads, abarcando desde la investigación y planificación inicial hasta la optimización continua basada en el análisis de métricas clave como el ROI y CPA. Además, complemento esta labor con la evaluación de los procesos de atención al cliente para asegurar una alta calidad y satisfacción, garantizando así un rendimiento óptimo y una experiencia positiva para los negocios gestionados.",
+        "Gestión integral de campañas publicitarias pagadas en Google Ads, Tik Tok Ads y Meta Ads, desde la investigación de palabras clave y la planificación estratégica hasta la configuración y optimización en plataforma. Análisis detallado de métricas de campaña para transformar datos en insights accionables, enfocados en la mejora continua del rendimiento (ROI y CPA). Realización de evaluaciones de atención al cliente para asegurar la calidad en los negocios gestionados.",
     },
     {
       company: "Envases Maxiplast",
       badges: [],
       href: "#",
       location: "Villa de Cura, Aragua",
-      title: "Especialista en IT",
+      title: "IT Infrastructure Manager | SysAdmin & Network Specialist",
       logoUrl: "/Maxiplast-logo.webp",
       start: "Febrero 2023",
-      end: "Diciembre 2024",
+      end: "Julio 2025",
       description:
         "Me encargué de optimizar la infraestructura tecnológica de la empresa, reduciendo significativamente los tiempos de inactividad a través de un riguroso mantenimiento preventivo y correctivo. Implementé y configuré sistemas avanzados de seguridad, como CCTV y control de acceso biométrico, para robustecer la protección de sus activos, al tiempo que aseguraba la continuidad operativa resolviendo eficientemente incidencias en redes, servidores, impresoras y sensores de maquinaria industrial.",
     },
@@ -144,7 +157,7 @@ export const DATA = {
       href: "#",
       badges: [],
       location: "Maracay, Aragua",
-      title: "Especialista en IT",
+      title: "IT Infrastructure Manager | SysAdmin & Network Specialist",
       logoUrl: "/Kimberly-logo.webp",
       start: "Mayo 2018",
       end: "Enero 2021",
@@ -261,6 +274,22 @@ export const DATA = {
     },
   ],
   certificados: [
+    {
+      title: "La IA desbloqueada: agentes y Skills",
+      dates: "",
+      location: "Binance Academy",
+      description: "",
+      image: "",
+      links: [],
+    },
+    {
+      title: "Networking Basics",
+      dates: "",
+      location: "Cisco",
+      description: "",
+      image: "",
+      links: [],
+    },
     {
       title: "Meta Ads Avanzado",
       dates: "",
